@@ -18,3 +18,4 @@
   - <b>Automatic Cleanup:</b> Balls are automatically deleted once they go out of bounds or after specific animations (shrink, fade) complete.
 
 <br><b>Application Screenshot</b></br>
+![Screenshot](https://github.com/user-attachments/assets/0a5a88d2-07eb-42a3-b11f-6ff6b0ad2f9c)
