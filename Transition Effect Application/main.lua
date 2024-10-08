@@ -1,5 +1,4 @@
 -----------------------------------------------------------------------------------------
--- CS371-01 Programming Assignment 1
 -- 2D Animation Application
 -- Eric Delgado
 -- 09/27/24
