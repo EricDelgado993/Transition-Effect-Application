@@ -9,7 +9,7 @@ This project is designed to showcase interactive animations and user-triggered e
 
 ## Project File
 - [Transition Effect Program](https://github.com/EricDelgado993/Transition-Effect-Application/blob/main/Transition%20Effect%20Application/main.lua)
-- 
+
 ---
 
 ## Features
